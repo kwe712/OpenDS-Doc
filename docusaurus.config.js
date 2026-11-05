@@ -13,7 +13,7 @@ const config = {
 
   // Website URL
   url: 'https://docs.open-ds.de',
-  baseUrl: '/OpenDS-Doc/',
+  baseUrl: '/',
 
   onBrokenLinks: 'throw',
 
